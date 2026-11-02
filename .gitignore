@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.env
+!example.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
